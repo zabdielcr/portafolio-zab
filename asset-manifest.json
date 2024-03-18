@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portafolio-zab/static/css/main.dfbcf144.css",
+    "main.css": "/portafolio-zab/static/css/main.1c7e64e6.css",
     "main.js": "/portafolio-zab/static/js/main.aed2e8be.js",
     "static/js/787.e8525061.chunk.js": "/portafolio-zab/static/js/787.e8525061.chunk.js",
     "static/media/mountains.png": "/portafolio-zab/static/media/mountains.6bceb498a0e1e0a70b47.png",
@@ -8,12 +8,12 @@
     "static/media/stars.png": "/portafolio-zab/static/media/stars.a979f6ed7ad00c7ea0b2.png",
     "static/media/planets.png": "/portafolio-zab/static/media/planets.827213af57ae82d007cd.png",
     "index.html": "/portafolio-zab/index.html",
-    "main.dfbcf144.css.map": "/portafolio-zab/static/css/main.dfbcf144.css.map",
+    "main.1c7e64e6.css.map": "/portafolio-zab/static/css/main.1c7e64e6.css.map",
     "main.aed2e8be.js.map": "/portafolio-zab/static/js/main.aed2e8be.js.map",
     "787.e8525061.chunk.js.map": "/portafolio-zab/static/js/787.e8525061.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfbcf144.css",
+    "static/css/main.1c7e64e6.css",
     "static/js/main.aed2e8be.js"
   ]
 }
