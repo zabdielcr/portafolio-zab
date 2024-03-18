@@ -50,7 +50,7 @@
         }
       }
       img {
-        width: 50px;
+        width: 30px;
       }
     }
   }
@@ -62,7 +62,7 @@
 
     @include mobile{
       height: 50%;
-      width: 100%;
+      width: 88%;
       top: unset;
       bottom: 0;
     }
