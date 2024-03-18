@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portafolio-zab/static/css/main.70af70e3.css",
-    "main.js": "/portafolio-zab/static/js/main.cca09fa2.js",
+    "main.css": "/portafolio-zab/static/css/main.d36990df.css",
+    "main.js": "/portafolio-zab/static/js/main.aed2e8be.js",
     "static/js/787.e8525061.chunk.js": "/portafolio-zab/static/js/787.e8525061.chunk.js",
     "static/media/mountains.png": "/portafolio-zab/static/media/mountains.6bceb498a0e1e0a70b47.png",
+    "static/media/zab.png": "/portafolio-zab/static/media/zab.b169c3efd88255e64968.png",
     "static/media/stars.png": "/portafolio-zab/static/media/stars.a979f6ed7ad00c7ea0b2.png",
     "static/media/planets.png": "/portafolio-zab/static/media/planets.827213af57ae82d007cd.png",
     "index.html": "/portafolio-zab/index.html",
-    "main.70af70e3.css.map": "/portafolio-zab/static/css/main.70af70e3.css.map",
-    "main.cca09fa2.js.map": "/portafolio-zab/static/js/main.cca09fa2.js.map",
+    "main.d36990df.css.map": "/portafolio-zab/static/css/main.d36990df.css.map",
+    "main.aed2e8be.js.map": "/portafolio-zab/static/js/main.aed2e8be.js.map",
     "787.e8525061.chunk.js.map": "/portafolio-zab/static/js/787.e8525061.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70af70e3.css",
-    "static/js/main.cca09fa2.js"
+    "static/css/main.d36990df.css",
+    "static/js/main.aed2e8be.js"
   ]
 }
