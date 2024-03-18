@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.cff3e626.css",
-    "main.js": "/static/js/main.2b5eb083.js",
-    "static/js/787.e8525061.chunk.js": "/static/js/787.e8525061.chunk.js",
-    "static/media/mountains.png": "/static/media/mountains.6bceb498a0e1e0a70b47.png",
-    "static/media/stars.png": "/static/media/stars.a979f6ed7ad00c7ea0b2.png",
-    "static/media/planets.png": "/static/media/planets.827213af57ae82d007cd.png",
-    "index.html": "/index.html",
-    "main.cff3e626.css.map": "/static/css/main.cff3e626.css.map",
-    "main.2b5eb083.js.map": "/static/js/main.2b5eb083.js.map",
-    "787.e8525061.chunk.js.map": "/static/js/787.e8525061.chunk.js.map"
+    "main.css": "/portafolio-zab/static/css/main.70af70e3.css",
+    "main.js": "/portafolio-zab/static/js/main.cca09fa2.js",
+    "static/js/787.e8525061.chunk.js": "/portafolio-zab/static/js/787.e8525061.chunk.js",
+    "static/media/mountains.png": "/portafolio-zab/static/media/mountains.6bceb498a0e1e0a70b47.png",
+    "static/media/stars.png": "/portafolio-zab/static/media/stars.a979f6ed7ad00c7ea0b2.png",
+    "static/media/planets.png": "/portafolio-zab/static/media/planets.827213af57ae82d007cd.png",
+    "index.html": "/portafolio-zab/index.html",
+    "main.70af70e3.css.map": "/portafolio-zab/static/css/main.70af70e3.css.map",
+    "main.cca09fa2.js.map": "/portafolio-zab/static/js/main.cca09fa2.js.map",
+    "787.e8525061.chunk.js.map": "/portafolio-zab/static/js/787.e8525061.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cff3e626.css",
-    "static/js/main.2b5eb083.js"
+    "static/css/main.70af70e3.css",
+    "static/js/main.cca09fa2.js"
   ]
 }
