@@ -60,10 +60,7 @@
         border-radius: 45px;
         object-fit: conver;
 
-        @include mobile{
-          width: 200px;
-          height: 50px;
-        }
+     
       }
       b {
         font-size: 96px;
