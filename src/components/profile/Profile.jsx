@@ -1,5 +1,7 @@
 import "./profile.scss";
 import { motion } from "framer-motion";
+import zab from '../images/zab.png';
+import scroll from '../images/scroll.png';
 const textVariants = {
   initial: {
     x: -500,
@@ -63,7 +65,7 @@ function Profile() {
           <motion.img
             variants={textVariants}
             animate="scrollButton"
-            src="/scroll.png"
+            src={scroll}
             alt=""
           />
         </motion.div>
@@ -77,7 +79,7 @@ function Profile() {
         Web designer
       </motion.div>
       <div className="imageContainer">
-        <img src="/zab.png" alt="" />
+        <img src= {zab} alt="" />
       </div>
     </div>
   );

@@ -1,7 +1,8 @@
 @import "../../app.scss";
+
 .contact {
   height: 100%;
-  max-width: 1355px;
+  max-width: 1366px;
   margin: auto;
   display: flex;
   align-items: center;
@@ -42,10 +43,6 @@
     flex: 1;
     position: relative;
 
-    @include mobile {
-      padding: 50px;
-      width: 100px;
-    }
     .phoneSvg {
       stroke: orange;
       position: absolute;

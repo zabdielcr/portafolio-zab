@@ -1,6 +1,10 @@
 import { useRef } from "react";
 import "./services.scss";
 import { motion, useInView } from "framer-motion";
+import business from "../images/business.png";
+import system from "../images/system.png";
+import progra from "../images/progra.png";
+import data from "../images/data.png";
 
 const variants = {
   initial: {
@@ -27,11 +31,12 @@ const Services = () => {
       variants={variants}
       initial="initial"
       ref={ref}
-      animate={isInView && "animate"}
+      animate={ window.innerWidth<= 738 ? "animate" : isInView && "animate"} 
+
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          Me enfoco en ayudar a colaborar en los procesos de análisis y
+          Me enfoco colaborar en los procesos de análisis y
           desarrollo de
           <br />
           sistemas en las empresas.
@@ -68,7 +73,7 @@ const Services = () => {
             así como auditoría y normativa informática.
           </p>
           <div className="title">
-            <img src="/business.png" alt="" />
+            <img src={business} alt="" />
           </div>
         </motion.div>
         <motion.div
@@ -82,7 +87,7 @@ const Services = () => {
             necesaria para desarrollar un sistema óptimo y seguro.
           </p>
           <div className="title">
-            <img src="/system.png" alt="" />
+            <img src={system} alt="" />
           </div>
         </motion.div>
         <motion.div
@@ -91,12 +96,12 @@ const Services = () => {
         >
           <h2>Desarrollo Web</h2>
           <p>
-            Trabajo principalmente como programador web fullstack. Creo sitios web
-            dinámicos y responsivos, utilizando tecnologías actuales y
+            Trabajo principalmente como programador web fullstack. Creo sitios
+            web dinámicos y responsivos, utilizando tecnologías actuales y
             emergentes. He trabajado como desarrollador front-end y back-end.
           </p>
           <div className="title">
-            <img src="/progra.png" alt="" />
+            <img src={progra} alt="" />
           </div>
         </motion.div>
         <motion.div
@@ -105,12 +110,12 @@ const Services = () => {
         >
           <h2>Bases de datos</h2>
           <p>
-            I have knowledge of working with the creation of tables, views,
-            joins, functions, stored procedures and triggers for good
-            administration of the databases I managed.
+            Tengo conocimientos laborales con la creación de tablas, vistas,
+            joins, funciones, procedimientos almacenados y triggers. En MySQL,
+            SQL Server, Oracle y PostgreSQL.
           </p>
           <div className="title">
-            <img src="/data.png" alt="" />
+            <img src={data} alt="" />
           </div>
         </motion.div>
       </motion.div>

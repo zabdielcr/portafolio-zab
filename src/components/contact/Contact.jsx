@@ -101,7 +101,7 @@ const Contact = () => {
         >
           <input type="text" required placeholder="Nombre"  name="name" />
           <input type="email" required placeholder="Email" name="email" />
-          <textarea rows={8} required placeholder="Mensaje" name="message"></textarea>
+          <textarea rows={8}  placeholder="Mensaje" name="message"></textarea>
           <button>Enviar</button>
           {error && "Error"}
           {success && "Success"}
