@@ -54,12 +54,12 @@ function Profile() {
           </motion.h1>
           <motion.div variants={textVariants} className="buttons">
           <a href="#Portfolio">
-          <motion.button variants={textVariants}>
+          <motion.button  whileHover={{ background: "orange"}} variants={textVariants}>
               Trabajos realizados
             </motion.button>
           </a>
           <a href="#Contact">
-          <motion.button variants={textVariants}>Contactame</motion.button>
+          <motion.button  whileHover={{ background: "orange" }} variants={textVariants}>Contactame</motion.button>
           </a>
           </motion.div>
           <motion.img
